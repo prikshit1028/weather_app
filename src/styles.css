@@ -1,0 +1,20 @@
+form {
+  margin-bottom: 10px;
+}
+div {
+  text-align: start;
+}
+img {
+  height: 45px;
+  width: 45px;
+}
+button:hover {
+  cursor: pointer;
+}
+
+div#tempid {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  margin-bottom: 330px;
+}
